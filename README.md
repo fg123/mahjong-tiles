@@ -1,6 +1,6 @@
-# Open Source Vector Mahjong Tiles
+# Mahjong Tiles
 
-A complete 42-piece set of beautifully extracted, pristine colored vector SVGs of classic Mahjong tiles.
+A complete 42-piece set of SVGs of classic Mahjong tiles - extracted from my set at home.
 
 ## Standard Tiles
 <p align="center">
